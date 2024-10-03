@@ -1,0 +1,66 @@
+[ {
+  "productoId" : 1,
+  "nombre" : "Aguacates",
+  "stock" : 100,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 2,
+  "nombre" : "Frijoles",
+  "stock" : 50,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 3,
+  "nombre" : "Queso",
+  "stock" : 100,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 4,
+  "nombre" : "Leche",
+  "stock" : 200,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 5,
+  "nombre" : "Huevos",
+  "stock" : 150,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 6,
+  "nombre" : "Pan",
+  "stock" : 300,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 7,
+  "nombre" : "Azucar",
+  "stock" : 100,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 8,
+  "nombre" : "Sal",
+  "stock" : 50,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 9,
+  "nombre" : "Aceite",
+  "stock" : 100,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 10,
+  "nombre" : "Arroz",
+  "stock" : 200,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 11,
+  "nombre" : "mesa",
+  "stock" : 76,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 90,
+  "nombre" : "sillas",
+  "stock" : 88,
+  "estado" : "Existencia"
+}, {
+  "productoId" : 871,
+  "nombre" : "sillon",
+  "stock" : 8,
+  "estado" : "Existencia"
+} ]

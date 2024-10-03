@@ -1,0 +1,65 @@
+[ {
+  "nitCliente" : "2323434",
+  "nombreCliente" : "aaaa",
+  "direccion" : "test",
+  "celular" : "56897412",
+  "pedidosLista" : [ {
+    "pedidoId" : 883781400,
+    "fechaOrden" : 1727222683086,
+    "estado" : "Despachado",
+    "productos" : [ {
+      "productoId" : 2,
+      "nombre" : "Frijoles",
+      "stock" : 25,
+      "estado" : "Existencia"
+    } ]
+  } ]
+}, {
+  "nitCliente" : "90",
+  "nombreCliente" : "Cinthia",
+  "direccion" : "37",
+  "celular" : null,
+  "pedidosLista" : [ {
+    "pedidoId" : 127,
+    "fechaOrden" : 1727752450873,
+    "estado" : "Generado",
+    "productos" : [ {
+      "productoId" : 1,
+      "nombre" : "Aguacates",
+      "stock" : 8,
+      "estado" : "Existencia"
+    } ]
+  } ]
+}, {
+  "nitCliente" : "5689",
+  "nombreCliente" : "cinthia",
+  "direccion" : "37calle",
+  "celular" : null,
+  "pedidosLista" : [ {
+    "pedidoId" : 696,
+    "fechaOrden" : 1727752564529,
+    "estado" : "Generado",
+    "productos" : [ {
+      "productoId" : 1,
+      "nombre" : "Aguacates",
+      "stock" : 67,
+      "estado" : "Agotado"
+    } ]
+  } ]
+}, {
+  "nitCliente" : "5695",
+  "nombreCliente" : "CinthiaRobles",
+  "direccion" : "7ma_avnida",
+  "celular" : "548995",
+  "pedidosLista" : [ {
+    "pedidoId" : 773,
+    "fechaOrden" : 1727754025175,
+    "estado" : "Generado",
+    "productos" : [ {
+      "productoId" : 871,
+      "nombre" : "sillon",
+      "stock" : 7,
+      "estado" : "Existencia"
+    } ]
+  } ]
+} ]
